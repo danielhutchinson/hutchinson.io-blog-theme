@@ -14,6 +14,8 @@ to the beginning. The JS goes out and takes the first image inside this article 
 
 If you give your images an alt text, it gets added automatically as figcaption beneath the image (sorry, no links or other HTML stuff). Awesomeness!
 
+The Hutchinson.io blog theme, a forked and customised version of [Readium for Ghost](https://github.com/starburst1977/readium)
+
 ## Features
 - Mobile-First Design Aproach
 - Fully Responsive layout
